@@ -7,10 +7,17 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.designbest.arredopiu"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "xxxxx",
             "PACKAGE_NAME": "com.designbest.arredopiu"
         },
         "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.designbest.arredopiu"
+        },
+        "cordova-custom-config": {
             "PACKAGE_NAME": "com.designbest.arredopiu"
         },
         "cordova-plugin-dialogs": {
@@ -25,14 +32,7 @@
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "com.designbest.arredopiu"
         },
-        "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.arredopiu"
-        },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.arredopiu"
-        },
-        "phonegap-plugin-push": {
-            "SENDER_ID": "xxxxx",
             "PACKAGE_NAME": "com.designbest.arredopiu"
         }
     },
