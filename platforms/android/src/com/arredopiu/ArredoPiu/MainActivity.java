@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.designbest.arredopiu;
+package com.arredopiu.ArredoPiu;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
